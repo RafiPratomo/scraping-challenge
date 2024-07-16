@@ -40,10 +40,7 @@ This repository contains a Python script to scrape and analyze Mars weather data
      ```
 
 2. **Run the Script:**
-   - Execute the script to scrape and analyze the Mars weather data.
-     ```sh
-     python mars_weather_scraping.py
-     ```
+   - Execute the script to scrape and analyze the Mars weather data using jupyter notebook.
 
 3. **View Results:**
    - The script will output the results of the analysis and save the data to `mars_weather_data.csv`.
